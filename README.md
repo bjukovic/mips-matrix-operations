@@ -95,7 +95,7 @@ If the dimensions do not match, the program displays an error message and return
 
 ### Matrix Subtraction
 
-Matrix subtraction follows the same dimension requirements as addition.
+Matrix subtraction follows the same dimension requirements as addition. 
 
 For matrices `A` and `B`:
 
